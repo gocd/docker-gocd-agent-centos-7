@@ -2,6 +2,9 @@
 
 [GoCD agent](https://www.gocd.org) docker image based on centos 7.
 
+# This image is deprecated
+
+> **Note**: This image is now deprecated and will be sunset on **Sep 01, 2023**.
 
 # Issues, feedback?
 
